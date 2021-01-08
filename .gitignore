@@ -1,0 +1,4 @@
+*.env
+*data_sample.csv
+*sample.html
+__pycache__/*
